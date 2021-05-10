@@ -36,7 +36,7 @@ The higher level applications calling these APIs would simultaneously call the d
 The product
 ---------------
 
-<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/tree/main/images/home.PNG" width="75%"></p><br>
-<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/tree/main/images/createWallet.PNG" width="75%"></p><br>
-<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/tree/main/images/Admin.PNG" width="75%"></p><br>
-<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/tree/main/images/seeAll.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/home.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/createWallet.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/Admin.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/seeAll.PNG" width="75%"></p><br>
