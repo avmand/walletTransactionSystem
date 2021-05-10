@@ -31,3 +31,12 @@ Assumptions
 ---------------
 
 The higher level applications calling these APIs would simultaneously call the debit function on the phone number/user trying to credit that money to the chosen account.
+
+
+The product
+---------------
+
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/master/images/home.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/master/images/createWallet.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/master/images/Admin.PNG" width="75%"></p><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/master/images/seeAll.PNG" width="75%"></p><br>
