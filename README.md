@@ -31,3 +31,16 @@ Assumptions
 ---------------
 
 The higher level applications calling these APIs would simultaneously call the debit function on the phone number/user trying to credit that money to the chosen account.
+
+
+The product
+---------------
+
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/home.PNG" width="75%"></p>
+<p align="center">The home page. Choose any option to proceed.</p><br><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/createWallet.PNG" width="75%"></p>
+<p align="center">If you click on 'Add a Wallet' on the home page, you will be redirected to this page.</p><br><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/Admin.PNG" width="75%"></p>
+<p align="center">The admin page. This was made to include two features that are supposed to be accessed by admins only.</p><br><br>
+<p align="center"><img src="https://github.com/avmand/walletTransactionSystem/blob/main/images/seeAll.PNG" width="75%"></p>
+<p align="center">If you click on 'See All Wallets' on the admin page, you will be redirected to this page to view all of the current wallets</p>
